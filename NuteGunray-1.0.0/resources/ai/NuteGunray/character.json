@@ -9,20 +9,20 @@
 
   "startTroops": {
     "normal": {
-		"Swordsman": 2,
+	"Swordsman": 2,
       	"FireThrower": 2,
       	"ArabArcher": 8
     },
     "crusader": {
-		"Swordsman": 10,
-      "FireThrower": 10,
+	"Swordsman": 10,
+        "FireThrower": 10,
 	"ArabArcher": 40
     },
     "deathmatch": 
 	{
-		"Swordsman": 2,
+	"Swordsman": 2,
       	"FireThrower": 2,
-		"ArabArcher": 8
+	"ArabArcher": 8
     }
   },
 
@@ -66,14 +66,14 @@
 	"MinimumWheat": 10,
 	"MinimumHop": 2,
 	"TradeAmountFood": 1,
-	"TradeAmountEquipment": 3,
+	"TradeAmountEquipment": 6,
 	"Unknown040": 12,
 	"MinimumGoodsRequiredAfterTrade": 5,
 	"DoubleRationsFoodThreshold": 80,
-	"MaxWood": 250,
+	"MaxWood": 202,
 	"MaxStone": 20,
 	"MaxResourceOther": 12,
-	"MaxEquipment": 32,
+	"MaxEquipment": 15,
 	"MaxBeer": 12,
 	"MaxResourceVariance": 0,
 	"RecruitGoldThreshold": 23,
@@ -152,10 +152,10 @@
 	"HarassingSiegeEngine8": "None",
 	"HarassingSiegeEnginesMax": 5,
 	"Unknown124": 48,
-	"AttForceBase": 64,
+	"AttForceBase": 84,
 	"AttForceRandom": 0,
 	"AttForceSupportAllyThreshold": 32,
-	"AttForceRallyPercentage": 70,
+	"AttForceRallyPercentage": 84,
 	"Unknown129": 60,
 	"Unknown130": 0,
 	"AttUnitPatrolRecommandDelay": 0,
@@ -191,9 +191,9 @@
 	"AttUnitSiegeDefGroupsCount": 1,
 	"AttUnitMain1": "Swordsman",
 	"AttUnitMain2": "Swordsman",
-	"AttUnitMain3": "None",
-	"AttUnitMain4": "None",
-	"AttMaxDefault": 0,
+	"AttUnitMain3": "Swordsman",
+	"AttUnitMain4": "Swordsman",
+	"AttMaxDefault": 15,
 	"AttMainGroupsCount": 1,
 	"TargetChoice": "Balanced",
 
